@@ -1,0 +1,8 @@
+build/
+devel/
+install/
+log/
+*.pyc
+*.swp
+.DS_Store
+*.bag
