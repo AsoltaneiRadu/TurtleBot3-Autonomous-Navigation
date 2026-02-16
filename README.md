@@ -41,10 +41,6 @@ Ensure you have the following installed on your Ubuntu system:
 
 ### Installation
 Clone this repository into your ROS 2 workspace:
-<img width="373" height="329" alt="Screenshot from 2026-02-03 16-13-48" src="https://github.com/user-attachments/assets/05d5da4f-4d60-4c48-9521-e93d3c2368ce" />
-
-```bash[Screencast from 02-03-2026 04:14:27 PM.webm](https://github.com/user-attachments/assets/2caf180c-b1b6-4358-b408-58dc57441852)[Screencast from 02-03-2026 04:14:27 PM.webm](https://github.com/user-attachments/assets/bfd38a55-b9a1-4ef8-b840-e43686083f21)
-
 
 cd ~/ros2_ws/src
 git clone [https://github.com/AsoltaneiRadu/TurtleBot3-Autonomous-Navigation.git](https://github.com/AsoltaneiRadu/TurtleBot3-Autonomous-Navigation.git)
@@ -68,3 +64,7 @@ Once the simulation is running, open a new terminal and run the driver script. T
 Bash
 
 python3 ~/ros2_ws/src/turtlebot3_autorace_driving/turtlebot3_autorace_driving/prof_driver.py
+
+
+
+Here you have a video of how the robot is moving[https://youtu.be/GFYYRFco7uA]
